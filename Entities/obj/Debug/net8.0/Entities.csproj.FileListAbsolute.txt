@@ -1,0 +1,11 @@
+D:\KampKodlamaIO\CSharpCamp2024\Odevler\Ders2\KodlamaIOWebSiteDemo\Entities\bin\Debug\net8.0\Entities.deps.json
+D:\KampKodlamaIO\CSharpCamp2024\Odevler\Ders2\KodlamaIOWebSiteDemo\Entities\bin\Debug\net8.0\Entities.dll
+D:\KampKodlamaIO\CSharpCamp2024\Odevler\Ders2\KodlamaIOWebSiteDemo\Entities\bin\Debug\net8.0\Entities.pdb
+D:\KampKodlamaIO\CSharpCamp2024\Odevler\Ders2\KodlamaIOWebSiteDemo\Entities\obj\Debug\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\KampKodlamaIO\CSharpCamp2024\Odevler\Ders2\KodlamaIOWebSiteDemo\Entities\obj\Debug\net8.0\Entities.AssemblyInfoInputs.cache
+D:\KampKodlamaIO\CSharpCamp2024\Odevler\Ders2\KodlamaIOWebSiteDemo\Entities\obj\Debug\net8.0\Entities.AssemblyInfo.cs
+D:\KampKodlamaIO\CSharpCamp2024\Odevler\Ders2\KodlamaIOWebSiteDemo\Entities\obj\Debug\net8.0\Entities.csproj.CoreCompileInputs.cache
+D:\KampKodlamaIO\CSharpCamp2024\Odevler\Ders2\KodlamaIOWebSiteDemo\Entities\obj\Debug\net8.0\Entities.dll
+D:\KampKodlamaIO\CSharpCamp2024\Odevler\Ders2\KodlamaIOWebSiteDemo\Entities\obj\Debug\net8.0\refint\Entities.dll
+D:\KampKodlamaIO\CSharpCamp2024\Odevler\Ders2\KodlamaIOWebSiteDemo\Entities\obj\Debug\net8.0\Entities.pdb
+D:\KampKodlamaIO\CSharpCamp2024\Odevler\Ders2\KodlamaIOWebSiteDemo\Entities\obj\Debug\net8.0\ref\Entities.dll
